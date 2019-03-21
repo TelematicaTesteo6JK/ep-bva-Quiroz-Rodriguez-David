@@ -1,0 +1,22 @@
+EP & BVA exercises
+
+1 to 5 hours: $10 per hour
+
+6 to 10 hours: $9 per hour
+
+More than 10 hours: $7 per hour
+
+Equivalence Partitioning
+Test data 	Expected result 	Actual result 	Pass/Fail
+3 	30 	30 	pass
+8 	72 	72 	pass
+15 	105 	105 	pass
+
+Boundary Value Analysis
+
+Test data 	Expected result 	Actual result 	Pass/Fail
+1 	10 	10 	pass
+5 	50 	50 	pass
+6 	54 	54 	pass
+10 	90 	90 	pass
+11 	77 	77 	pass
